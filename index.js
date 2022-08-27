@@ -1,3 +1,3 @@
-const Employee = require('./lib/Employee');
+const menu = require('./lib/menu');
 
-new Employee().initializeApp();
+menu.initializeApp();
