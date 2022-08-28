@@ -11,6 +11,7 @@
 NodeJs application to manage database of employees through command line prompts.
 It was developed as a proof of concept using InquirerJS, MySQL server and MySQL2 interface.
 The application allows to record, display and update tables of Employees, Roles and Departments, display informations using advanced SQL queries and maths operations directly from the database to avoid handcraft coding. The relational schema was designed to maintain a robust data integrity.
+Every MySQL2 querty was made utilizing Promise method to work properly with Inquirer JS prompts.
 
 ## Screenshot
 
