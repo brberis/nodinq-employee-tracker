@@ -40,7 +40,7 @@ Install MySQL in your computer and from MySQL CLI run the following commands to 
 
 ### Watch this video.
 
-[![Watch the video](https://github.com/brberis/nodinq-employee-tracker/blob/main/assets/images/video.png?raw=true)](https://drive.google.com/file/d/1ZsYnjLan6-VA56GzujnFDSzjwRGHhs0s/view)
+[![Watch the video](https://github.com/brberis/nodinq-employee-tracker/blob/main/assets/images/video.png?raw=true)](https://youtu.be/Qp97ZCKS60I)
 
 ## Features
 
