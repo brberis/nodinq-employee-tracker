@@ -37,7 +37,9 @@ Install MySQL in your computer and from MySQL CLI run the following commands to 
 
 ## Usage
 
-Watch this video.
+### Watch this video.
+
+[![Watch the video](https://github.com/brberis/nodinq-employee-tracker/blob/main/assets/images/video.png?raw=true)](https://drive.google.com/file/d/1cMk5K-RXt-sg8fHZyCuArL0Ly03o6dKO/view)
 
 ## Features
 
