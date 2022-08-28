@@ -14,7 +14,7 @@ The application allows to record, display and update tables of Employees, Roles 
 
 ## Screenshot
 
-![alt screenshot](https://github.com/brberis/nodinq-employee-tracker/raw/main/Develop/assets/images/web.png)
+![alt screenshot](https://github.com/brberis/nodinq-employee-tracker/raw/main/assets/images/web.png)
 
 ## Table of Contents
 
