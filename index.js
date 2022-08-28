@@ -1,3 +1,3 @@
 const menu = require('./lib/menu/menu');
 
-menu.initializeApp();
+menu.mainMenu();
